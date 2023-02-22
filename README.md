@@ -1,4 +1,4 @@
-# Desafio Plataforma de ensino
+# Exercise about JAVA exceptions
 
 
 >### Status: Finished ✔️
@@ -11,8 +11,8 @@
 ---
 
 >## SOBRE ❓
-> Desafio sobre classes e métodos abstratos para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
-polimorfismo, atributos, objetos, construtores, encapsulamento e listas.<br><br>
+> Exercicio sobre exceções para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
+ classes, métodos, atributos, objetos, polimorfismo, construtores e encapsulamento.<br><br>
 
 ---
 
@@ -20,12 +20,12 @@ polimorfismo, atributos, objetos, construtores, encapsulamento e listas.<br><br>
 
 ## Enunciado 
 
-<img src="https://github.com/Leothurm/Desafio-PlataformaDeEnsino/blob/main/img/Enunciado.PNG">
+<img src="https://github.com/Leothurm/Exceptions-JAVA/blob/main/img/Enunciado.PNG">
 
 
 ## Estrutura
 
-<img src="https://github.com/Leothurm/Desafio-PlataformaDeEnsino/blob/main/img/estrutura.PNG">
+<img src="https://github.com/Leothurm/Exceptions-JAVA/blob/main/img/estrutura.PNG">
 
 </div>
 
